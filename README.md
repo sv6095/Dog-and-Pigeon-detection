@@ -1,4 +1,4 @@
-# Dog Detection System
+# Dog & Pigeon Detection&Feeding System
 
 A computer vision system for detecting and tracking dogs using a fine-tuned YOLOv8 model. The system can identify individual dogs, track their movement patterns, and trigger actions based on their behavior.
 
